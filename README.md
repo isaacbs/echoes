@@ -1,6 +1,6 @@
 # echoes
 A machine learning based music generation application
-
+![alt text](https://github.com/isaacbs/echoes/blob/main/spectogram.png)
 ## Planned Steps:
 ### 1. Organize data
 Utilize numpy and pandas to clean and organize data.
